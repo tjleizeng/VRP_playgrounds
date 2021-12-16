@@ -1,5 +1,5 @@
 # VRP_playgrounds
-Collection of simulators for fleet management/ food delivery problem that can be generalized to dynamic vehicle routing problem.
+Collection of simulators for fleet management/ food delivery problems that can be generalized to (dynamic) vehicle routing problems.
 
 TODO list:
 
@@ -21,5 +21,11 @@ List of simulators:
 3. FleetAI, [link](https://github.com/hitsuji5/FleetAI)
   - Not runnable, the scikit-image cannot be installed, 12/16/2021.
 4. IDQ_HEX, [link](https://github.com/sguo28/IDQ_HEX/tree/master/code)
+5. simobility, [link](https://github.com/sash-ko/simobility)
+6. Cargo, [link](https://github.com/jamjpan/Cargo)
+7. Last-mile-delivery-problem, [link](https://github.com/yongyanghz/Last-mile-delivery-problem)
+8. tsp_real, [link](https://github.com/prathyaksh03/tsp_real)
+9. VehicleRoutingProblem, [link](https://github.com/shlok57/VehicleRoutingProblem/tree/master/Genetic2)
+10. pdptw-instances, [link](https://github.com/cssartori/pdptw-instances)
 
 
