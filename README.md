@@ -27,5 +27,9 @@ List of simulators:
 8. tsp_real, [link](https://github.com/prathyaksh03/tsp_real)
 9. VehicleRoutingProblem, [link](https://github.com/shlok57/VehicleRoutingProblem/tree/master/Genetic2)
 10. pdptw-instances, [link](https://github.com/cssartori/pdptw-instances)
+11. ride-sharing-simulation, [link](https://github.com/Vardominator/ride-sharing-simulation)
+12. Self-driving-electric-ride-hailing-simulation-deep_learning-optimization, [link] (https://github.com/lianghu83/Self-driving-electric-ride-hailing-simulation-deep_learning-optimization)
+13. Ride-hailing-batching-simulation, [link](https://github.com/juanhu96/Ride-hailing-batching-simulation)
+
 
 
